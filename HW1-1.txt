@@ -1,5 +1,0 @@
-import math
-def pythagoreanTheorem(length_a, length_b):
- added_square = math.pow(length_a,2)+math.pow(length_b,2)
- hypotenuse = math.sqrt(added_square)
- return hypotenuse
