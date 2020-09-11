@@ -78,3 +78,8 @@ git add B.py
 git commit -m "conflict  in mergin solved"
 
 ```
+
+Report your experience of making this submission, including the steps followed, commands used, and hurdles faced (within the file you created for the **Part 1**.
+```
+It wasn't hard. It is the first time I am using git though. 
+```
