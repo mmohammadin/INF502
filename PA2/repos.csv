@@ -1,5 +1,0 @@
-owner,name,description,homepage,forks,watchers,date_of_collection,license
-rails,rails,Ruby on Rails,https://rubyonrails.org,18859,46960,11/19/2020 15:35,"{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}"
-JabRef,jabref,Graphical Java application for managing BibTeX and biblatex (.bib) databases,https://www.jabref.org,1302,1932,11/19/2020 15:36,"{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}"
-igorsteinmacher,CS499-OSS,Open Source Software Development Course at NAU,,55,12,11/19/2020 15:38,"{'key': 'cc0-1.0', 'name': 'Creative Commons Zero v1.0 Universal', 'spdx_id': 'CC0-1.0', 'url': 'https://api.github.com/licenses/cc0-1.0', 'node_id': 'MDc6TGljZW5zZTY='}"
-igorsteinmacher,INF502-Fall2020,None,None,30,3,11/19/2020 15:43,"{'key': 'unlicense', 'name': 'The Unlicense', 'spdx_id': 'Unlicense', 'url': 'https://api.github.com/licenses/unlicense', 'node_id': 'MDc6TGljZW5zZTE1'}"
